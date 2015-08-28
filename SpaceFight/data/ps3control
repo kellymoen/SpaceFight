@@ -1,0 +1,22 @@
+ps3control
+LeftX	Left Stick X	3	SLIDER	x	0	1.0	0.0
+LeftY	Lest Stick Y	3	SLIDER	y	0	1.0	0.0
+RightX	Right Stick X	3	SLIDER	z	0	1.0	0.0
+RightY	Right Stick Y	3	SLIDER	rz	0	1.0	0.0
+Up	Up	1	BUTTON	4	0	0.0	0.0
+Down	Down	1	BUTTON	6	0	0.0	0.0
+Left	Left	1	BUTTON	7	0	0.0	0.0
+Right	Right	1	BUTTON	5	0	0.0	0.0
+Start	Start	1	BUTTON	3	0	0.0	0.0
+Select	Select	1	BUTTON	0	0	0.0	0.0
+L1	L1	1	BUTTON	10	0	0.0	0.0
+L2	L2	1	BUTTON	8	0	0.0	0.0
+R1	R1	1	BUTTON	11	0	0.0	0.0
+R2	R2	1	BUTTON	9	0	0.0	0.0
+L3	L3	1	BUTTON	1	0	0.0	0.0
+R3	R3	1	BUTTON	2	0	0.0	0.0
+Triangle	Triangle	1	BUTTON	12	0	0.0	0.0
+Circle	Circle	1	BUTTON	13	0	0.0	0.0
+Cross	Cross	1	BUTTON	14	0	0.0	0.0
+Square	Square	1	BUTTON	15	0	0.0	0.0
+PS	PS	1	BUTTON	16	0	0.0	0.0
